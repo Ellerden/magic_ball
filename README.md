@@ -12,8 +12,8 @@ If you're not familiar with "Magic ball" or want to know more than you already k
 
 ## How to play<br />
 
-1 Ask "yes or no" question.
-2 Wait a moment, magic ball is getting information from the Universe.
-3 Get positive, negative or indifferent answer.
-4 Repeat if you are not satisfied with the answer or have another question.
+1 Ask "yes or no" question.<br />
+2 Wait a moment, magic ball is getting information from the Universe.<br />
+3 Get positive, negative or indifferent answer.<br />
+4 Repeat if you are not satisfied with the answer or have another question.<br />
 Your fortune is always changing. <br />
